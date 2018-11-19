@@ -146,7 +146,9 @@ img {
     width: 100%;
     margin: 0 auto;
 }
-
+.top-page-title {
+  background-size: contain;
+}
 
 .header-wrapper {
     width: 100%;
